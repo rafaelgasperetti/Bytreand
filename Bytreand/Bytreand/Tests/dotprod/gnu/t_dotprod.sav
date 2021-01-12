@@ -1,0 +1,26 @@
+[*]
+[*] GTKWave Analyzer v3.3.66 (w)1999-2015 BSI
+[*] Wed Feb 22 15:22:45 2017
+[*]
+[dumpfile] "/home/rafael/llvm-fpga-home/lalp/src/br/ufscar/dc/lalp/examples/dotprod/gnu/t_dotprod.vcd"
+[dumpfile_mtime] "Wed Feb 22 15:22:35 2017"
+[dumpfile_size] 404611
+[savefile] "/home/rafael/llvm-fpga-home/lalp/src/br/ufscar/dc/lalp/examples/dotprod/gnu/t_dotprod.sav"
+[timestart] 111600000
+[size] 1855 1056
+[pos] -1 -1
+*-24.776180 175900000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 225
+[signals_width] 166
+[sst_expanded] 1
+[sst_vpaned_height] 320
+@28
+\clear\
+\clk\
+\done\
+\init\
+\reset\
+@25
+\sum\[31:0][31:0]
+[pattern_trace] 1
+[pattern_trace] 0

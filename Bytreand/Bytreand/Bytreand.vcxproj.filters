@@ -1,0 +1,240 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Arquivos de Origem">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Arquivos de Cabeçalho">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Arquivos de Recurso">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Arquivos de Origem\Compiler">
+      <UniqueIdentifier>{5c4db7df-0549-4e00-babc-24fcc7bc3713}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Arquivos de Origem\Compiler\MiddleEnd">
+      <UniqueIdentifier>{8e065445-2a78-4c51-be6a-6978aec0b6ce}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Arquivos de Origem\Compiler\FrontEnd">
+      <UniqueIdentifier>{01f4b8f1-6bba-423b-99c1-a4a397ac874d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Arquivos de Origem\Compiler\BackEnd">
+      <UniqueIdentifier>{b881b179-0793-4875-b047-b3081f487067}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Arquivos de Origem\Compiler\FrontEnd\Languages">
+      <UniqueIdentifier>{9c1c3e98-e560-49e2-b36e-0ee974f3a11f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Arquivos de Origem\Compiler\BackEnd\Architectures">
+      <UniqueIdentifier>{f40c0caa-fefc-403a-af02-c5f0c3b14216}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Arquivos de Origem\Tools">
+      <UniqueIdentifier>{e57cd48d-1379-4941-ba77-e9651694cc45}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Arquivos de Cabeçalho\Compiler">
+      <UniqueIdentifier>{87d3891c-2c5f-4382-b3ee-90c4dec90755}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Arquivos de Cabeçalho\Compiler\FrontEnd">
+      <UniqueIdentifier>{02cf65d6-f4c3-413c-9eac-a4922de88cc9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Arquivos de Cabeçalho\Compiler\MidleEnd">
+      <UniqueIdentifier>{e33d49c8-8e85-4df2-988c-eaaef8ab9bcd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Arquivos de Cabeçalho\Compiler\BackEnd">
+      <UniqueIdentifier>{c2700a96-9134-4871-8980-e485c3370d4d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Arquivos de Cabeçalho\Compiler\BackEnd\Architectures">
+      <UniqueIdentifier>{006ed38e-b251-478c-9e1c-33896dc86b76}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Arquivos de Cabeçalho\Compiler\FrontEnd\Languages">
+      <UniqueIdentifier>{fbeb9e3a-37d4-4b14-9b17-85c0b66bc8b8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Arquivos de Cabeçalho\Tools">
+      <UniqueIdentifier>{95a3b825-7507-4d84-9393-6da6ce9ce50c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Arquivos de Cabeçalho\Exception">
+      <UniqueIdentifier>{6d630b52-83ad-41fc-a6b2-e8ede8cfcfdb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Arquivos de Cabeçalho\Compiler\FrontEnd\Languages\C">
+      <UniqueIdentifier>{29894198-009e-4ed3-bb75-50771d41a5c3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Arquivos de Cabeçalho\Compiler\FrontEnd\Languages\Bytreand">
+      <UniqueIdentifier>{faa08036-1af0-4fbf-b240-ae6a81f00558}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Arquivos de Origem\Compiler\FrontEnd\Languages\C">
+      <UniqueIdentifier>{fe8f2996-6c92-413e-9c07-50037e110754}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Arquivos de Origem\Compiler\FrontEnd\Languages\Bytreand">
+      <UniqueIdentifier>{cfc1d3b4-aa7f-4bc7-952b-813ad97664c9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Arquivos de Cabeçalho\Compiler\MidleEnd\Languages">
+      <UniqueIdentifier>{7eeb5870-1dc7-4eec-8a95-0e710ed2ed43}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Arquivos de Cabeçalho\Compiler\MidleEnd\Languages\Bytreand">
+      <UniqueIdentifier>{903b0e02-81f3-45e3-8ec5-da61fad5de91}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Arquivos de Cabeçalho\Compiler\MidleEnd\Languages\C">
+      <UniqueIdentifier>{9f1456b6-8795-4775-97de-2d73c4101f5a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Arquivos de Origem\Compiler\MiddleEnd\Languages">
+      <UniqueIdentifier>{1cef0f57-c5e2-4cbc-8c95-12e0fb17c706}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Arquivos de Origem\Compiler\MiddleEnd\Languages\C">
+      <UniqueIdentifier>{eb82c21f-b9a1-44cd-b762-006faaebec6f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Arquivos de Origem\Compiler\MiddleEnd\Languages\Bytreand">
+      <UniqueIdentifier>{573d8dc6-c776-41ba-95ba-470888d2abbd}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Arquivos de Origem</Filter>
+    </ClCompile>
+    <ClCompile Include="Compiler\BytreandCompiler.cpp">
+      <Filter>Arquivos de Origem\Compiler</Filter>
+    </ClCompile>
+    <ClCompile Include="Tools\FileBaseManager.cpp">
+      <Filter>Arquivos de Origem\Tools</Filter>
+    </ClCompile>
+    <ClCompile Include="Tools\FileReader.cpp">
+      <Filter>Arquivos de Origem\Tools</Filter>
+    </ClCompile>
+    <ClCompile Include="Tools\FileWriter.cpp">
+      <Filter>Arquivos de Origem\Tools</Filter>
+    </ClCompile>
+    <ClCompile Include="Compiler\FrontEnd\TokenCursor.cpp">
+      <Filter>Arquivos de Origem\Compiler\FrontEnd</Filter>
+    </ClCompile>
+    <ClCompile Include="Compiler\FrontEnd\Tokenizer.cpp">
+      <Filter>Arquivos de Origem\Compiler\FrontEnd</Filter>
+    </ClCompile>
+    <ClCompile Include="Tools\Message.cpp">
+      <Filter>Arquivos de Origem\Tools</Filter>
+    </ClCompile>
+    <ClCompile Include="Compiler\FrontEnd\Languages\C\CTokenCursor.cpp">
+      <Filter>Arquivos de Origem\Compiler\FrontEnd\Languages\C</Filter>
+    </ClCompile>
+    <ClCompile Include="Compiler\FrontEnd\FrontEndToken.cpp">
+      <Filter>Arquivos de Origem\Compiler\FrontEnd</Filter>
+    </ClCompile>
+    <ClCompile Include="Compiler\MiddleEnd\Grammar.cpp">
+      <Filter>Arquivos de Origem\Compiler\MiddleEnd</Filter>
+    </ClCompile>
+    <ClCompile Include="Tools\Comparable.cpp">
+      <Filter>Arquivos de Origem\Tools</Filter>
+    </ClCompile>
+    <ClCompile Include="Compiler\MiddleEnd\Languages\C\CGrammar.cpp">
+      <Filter>Arquivos de Origem\Compiler\MiddleEnd\Languages\C</Filter>
+    </ClCompile>
+    <ClCompile Include="Compiler\MiddleEnd\StateTransition.cpp">
+      <Filter>Arquivos de Origem\Compiler\MiddleEnd</Filter>
+    </ClCompile>
+    <ClCompile Include="Compiler\MiddleEnd\GrammarState.cpp">
+      <Filter>Arquivos de Origem\Compiler\MiddleEnd</Filter>
+    </ClCompile>
+    <ClCompile Include="Compiler\MiddleEnd\SemanticTree.cpp">
+      <Filter>Arquivos de Origem\Compiler\MiddleEnd</Filter>
+    </ClCompile>
+    <ClCompile Include="Compiler\MiddleEnd\SemanticTreeNode.cpp">
+      <Filter>Arquivos de Origem\Compiler\MiddleEnd</Filter>
+    </ClCompile>
+    <ClCompile Include="Compiler\MiddleEnd\Scope.cpp">
+      <Filter>Arquivos de Origem\Compiler\MiddleEnd</Filter>
+    </ClCompile>
+    <ClCompile Include="Compiler\MiddleEnd\Identifier.cpp">
+      <Filter>Arquivos de Origem\Compiler\MiddleEnd</Filter>
+    </ClCompile>
+    <ClCompile Include="Compiler\MiddleEnd\ConsumptionResult.cpp">
+      <Filter>Arquivos de Origem\Compiler\MiddleEnd</Filter>
+    </ClCompile>
+    <ClCompile Include="Compiler\MiddleEnd\CategorizedToken.cpp">
+      <Filter>Arquivos de Origem\Compiler\MiddleEnd</Filter>
+    </ClCompile>
+    <ClCompile Include="Compiler\MiddleEnd\GrammarTokenFlow.cpp">
+      <Filter>Arquivos de Origem\Compiler\MiddleEnd</Filter>
+    </ClCompile>
+    <ClCompile Include="Compiler\MiddleEnd\Languages\C\CGrammarTokenFlow.cpp">
+      <Filter>Arquivos de Origem\Compiler\MiddleEnd\Languages\C</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Compiler\BytreandCompiler.h">
+      <Filter>Arquivos de Cabeçalho\Compiler</Filter>
+    </ClInclude>
+    <ClInclude Include="Tools\FileBaseManager.h">
+      <Filter>Arquivos de Cabeçalho\Tools</Filter>
+    </ClInclude>
+    <ClInclude Include="Tools\FileReader.h">
+      <Filter>Arquivos de Cabeçalho\Tools</Filter>
+    </ClInclude>
+    <ClInclude Include="Tools\FileWriter.h">
+      <Filter>Arquivos de Cabeçalho\Tools</Filter>
+    </ClInclude>
+    <ClInclude Include="Tools\CommandLineUtils.h">
+      <Filter>Arquivos de Cabeçalho\Tools</Filter>
+    </ClInclude>
+    <ClInclude Include="Tools\StringUtils.h">
+      <Filter>Arquivos de Cabeçalho\Tools</Filter>
+    </ClInclude>
+    <ClInclude Include="Compiler\FrontEnd\TokenCursor.h">
+      <Filter>Arquivos de Cabeçalho\Compiler\FrontEnd</Filter>
+    </ClInclude>
+    <ClInclude Include="Compiler\FrontEnd\Tokenizer.h">
+      <Filter>Arquivos de Cabeçalho\Compiler\FrontEnd</Filter>
+    </ClInclude>
+    <ClInclude Include="Tools\Message.h">
+      <Filter>Arquivos de Cabeçalho\Tools</Filter>
+    </ClInclude>
+    <ClInclude Include="Compiler\FrontEnd\Languages\C\CTokenCursor.h">
+      <Filter>Arquivos de Cabeçalho\Compiler\FrontEnd\Languages\C</Filter>
+    </ClInclude>
+    <ClInclude Include="Compiler\FrontEnd\FrontEndToken.h">
+      <Filter>Arquivos de Cabeçalho\Compiler\FrontEnd</Filter>
+    </ClInclude>
+    <ClInclude Include="Compiler\MiddleEnd\Grammar.h">
+      <Filter>Arquivos de Cabeçalho\Compiler\MidleEnd</Filter>
+    </ClInclude>
+    <ClInclude Include="Tools\Comparable.h">
+      <Filter>Arquivos de Cabeçalho\Tools</Filter>
+    </ClInclude>
+    <ClInclude Include="Tools\VectorUtils.h">
+      <Filter>Arquivos de Cabeçalho\Tools</Filter>
+    </ClInclude>
+    <ClInclude Include="Compiler\MiddleEnd\Languages\C\CGrammar.h">
+      <Filter>Arquivos de Cabeçalho\Compiler\MidleEnd\Languages\C</Filter>
+    </ClInclude>
+    <ClInclude Include="Compiler\MiddleEnd\StateTransition.h">
+      <Filter>Arquivos de Cabeçalho\Compiler\MidleEnd</Filter>
+    </ClInclude>
+    <ClInclude Include="Compiler\MiddleEnd\GrammarState.h">
+      <Filter>Arquivos de Cabeçalho\Compiler\MidleEnd</Filter>
+    </ClInclude>
+    <ClInclude Include="Compiler\MiddleEnd\SemanticTree.h">
+      <Filter>Arquivos de Cabeçalho\Compiler\MidleEnd</Filter>
+    </ClInclude>
+    <ClInclude Include="Compiler\MiddleEnd\SemanticTreeNode.h">
+      <Filter>Arquivos de Cabeçalho\Compiler\MidleEnd</Filter>
+    </ClInclude>
+    <ClInclude Include="Compiler\MiddleEnd\Scope.h">
+      <Filter>Arquivos de Cabeçalho\Compiler\MidleEnd</Filter>
+    </ClInclude>
+    <ClInclude Include="Compiler\MiddleEnd\Identifier.h">
+      <Filter>Arquivos de Cabeçalho\Compiler\MidleEnd</Filter>
+    </ClInclude>
+    <ClInclude Include="Compiler\MiddleEnd\ConsumptionResult.h">
+      <Filter>Arquivos de Cabeçalho\Compiler\MidleEnd</Filter>
+    </ClInclude>
+    <ClInclude Include="Compiler\MiddleEnd\CategorizedToken.h">
+      <Filter>Arquivos de Cabeçalho\Compiler\MidleEnd</Filter>
+    </ClInclude>
+    <ClInclude Include="Compiler\MiddleEnd\GrammarTokenFlow.h">
+      <Filter>Arquivos de Cabeçalho\Compiler\MidleEnd</Filter>
+    </ClInclude>
+    <ClInclude Include="Compiler\MiddleEnd\Languages\C\CGrammarTokenFlow.h">
+      <Filter>Arquivos de Cabeçalho\Compiler\MidleEnd\Languages\C</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
